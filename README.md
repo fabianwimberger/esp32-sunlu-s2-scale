@@ -1,6 +1,6 @@
 # ESP32 Filament Scale
 
-[![CI](https://github.com/fabianwimberger/esp32-filament-scale/actions/workflows/ci.yml/badge.svg)](https://github.com/fabianwimberger/esp32-filament-scale/actions/workflows/ci.yml)
+[![CI](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/actions/workflows/ci.yml/badge.svg)](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![Assembled scale](docs/assembled.jpg)
@@ -26,8 +26,8 @@ The scale is a 180 × 80 mm floating top on a 180 × 100 mm base, 34 mm tall, bu
 ## Quick Start
 
 ```bash
-git clone https://github.com/fabianwimberger/esp32-filament-scale.git
-cd esp32-filament-scale
+git clone https://github.com/fabianwimberger/esp32-sunlu-s2-scale.git
+cd esp32-sunlu-s2-scale
 
 python -m venv .venv
 .venv/bin/pip install esphome
