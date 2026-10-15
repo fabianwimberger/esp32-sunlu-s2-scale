@@ -17,9 +17,9 @@ This patch suppresses brief filament-pull spikes in weight estimates while prese
 
 ### Documentation & Links
 
-- [Build and calibration guide](https://github.com/fabianwimberger/esp32-filament-scale/blob/v1.0.1/docs/build.md)
-- [Filtering and configuration](https://github.com/fabianwimberger/esp32-filament-scale/blob/v1.0.1/README.md)
-- [ESP32-C3 OTA firmware](https://github.com/fabianwimberger/esp32-filament-scale/releases/download/v1.0.1/firmware.ota.bin), built with ESPHome 2026.9.1. Use this image for OTA updates to retain saved settings.
+- [Build and calibration guide](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/blob/v1.0.1/docs/build.md)
+- [Filtering and configuration](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/blob/v1.0.1/README.md)
+- [ESP32-C3 OTA firmware](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/releases/download/v1.0.1/firmware.ota.bin), built with ESPHome 2026.9.1. Use this image for OTA updates to retain saved settings.
 
 ## [v1.0.0] - 2026-10-03
 
@@ -42,6 +42,6 @@ First release of the printed filament scale for the SUNLU S2 dryer: CAD, printab
 
 ### Documentation & Links
 
-- Repository: https://github.com/fabianwimberger/esp32-filament-scale
-- Build guide: [docs/build.md](https://github.com/fabianwimberger/esp32-filament-scale/blob/main/docs/build.md)
-- Design notes: [docs/design.md](https://github.com/fabianwimberger/esp32-filament-scale/blob/main/docs/design.md)
+- Repository: https://github.com/fabianwimberger/esp32-sunlu-s2-scale
+- Build guide: [docs/build.md](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/blob/main/docs/build.md)
+- Design notes: [docs/design.md](https://github.com/fabianwimberger/esp32-sunlu-s2-scale/blob/main/docs/design.md)
