@@ -36,7 +36,7 @@ First release of the printed filament scale for the SUNLU S2 dryer: CAD, printab
 - Parametric OpenSCAD source with assertions for every screw length and clearance
 - Diagnostic sensors for raw counts, noise range, saved calibration, chip temperature and Wi-Fi signal
 
-### Testing
+### CI
 
 - Run the readings test, the mesh checks and ESPHome config validation on pull requests and pushes to main and develop
 - Compile the ESP32-C3 firmware in CI with ESPHome 2026.9.1
